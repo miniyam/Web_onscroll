@@ -1,0 +1,78 @@
+{
+  "data":[ 
+    {
+      "id":1,
+      "name":"SMYCKA 스뮈카",
+      "info":"조화, 라눙쿨루스/화이트, 52 cm",
+      "price":3900,
+      "img":"https://www.ikea.com/kr/ko/images/products/smycka-artificial-flower-ranunculus-white__0638900_pe699253_s5.jpg?f=xs",
+      "category":"flower"
+      
+    },
+    {
+      "id":2,
+      "name":"VINTERFINT 빈테르핀트",
+      "info":"밀대용 커버, 레드",
+      "price":4000,
+      "img":"https://www.ikea.com/kr/ko/images/products/vinterfint-cover-for-rolling-pin-red__1092226_pe862759_s5.jpg?f=xxs",
+      "category":"kitchen"
+    },
+    {
+      "id":3,
+      "name":"FEJKA 페이카",
+      "info":"인조식물, 실내외겸용 솔레이롤리아, 9 cm",
+      "price":5500,
+      "img":"https://www.ikea.com/kr/ko/images/products/fejka-artificial-potted-plant-in-outdoor-baby-s-tears__0614213_pe686800_s5.jpg?f=xs",
+      "category":"flower"
+    },
+    {
+      "id":4,
+      "name":"SOMMARLÅNKE 솜말롱케",
+      "info":"LED 장식용 탁상스탠드, 집 실외용/배터리식 레드, 26 cm",
+      "price":39900,
+      "img":"https://www.ikea.com/kr/ko/images/products/sommarlanke-led-decorative-table-lamp-house-outdoor-battery-operated-red__1149216_pe883912_s5.jpg?f=xxs",
+      "category":"light"
+    },
+    {
+      "id":5,
+      "name":"VINTERFINT 빈테르핀트",
+      "info":"장식방울, 유리/멀티컬러, 7 cm",
+      "price":10900,
+      "img":"https://www.ikea.com/kr/ko/images/products/vinterfint-decoration-bauble-clear-glass-multicolour__1155840_ph187760_s5.jpg?f=xxs",
+      "category":"deco"
+    },
+    {
+      "id":6,
+      "name":"VINTERFINT 빈테르핀트",
+      "info":"트레이, 나무 패턴 멀티컬러, 20x28 cm",
+      "price":4900,
+      "img":"https://www.ikea.com/kr/ko/images/products/vinterfint-tray-tree-pattern-multicolour__1155320_ph187726_s5.jpg?f=xxs",
+      "category":"kitchen"
+    },
+    {
+      "id":7,
+      "name":"SOMMARLÅNKE 솜말롱케",
+      "info":"LED 장식용 탁상스탠드, 베이지/배터리식 실외용, 45 cm",
+      "price":34900,
+      "img":"https://www.ikea.com/kr/ko/images/products/sommarlanke-led-decorative-table-lamp-beige-battery-operated-outdoor__1181743_pe896750_s5.jpg?f=xxs",
+      "category":"light"
+    },
+    {
+      "id":8,
+      "name":"SOMMARLÅNKE 솜말롱케",
+      "info":"LED 장식용 탁상스탠드, 실외용 유리용기/배터리식 투명, 15 cm",
+      "price":12900,
+      "img":"https://www.ikea.com/kr/ko/images/products/sommarlanke-led-decorative-table-lamp-outdoor-jar-battery-operated-clear__1149218_pe883914_s5.jpg?f=xxs",
+      "category":"light"
+    },
+    
+    {
+      "id":9,
+      "name":"VINTERFINT 빈테르핀트",
+      "info":"기둥모양 양초홀더 2종, 집 레드/화이트",
+      "price":6900,
+      "img":"https://www.ikea.com/kr/ko/images/products/vinterfint-pillar-candle-holder-set-of-2-house-red-white__1155365_ph187720_s5.jpg?f=xxs",
+      "category":"deco"
+    } 
+    ]
+  }
